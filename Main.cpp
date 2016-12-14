@@ -143,6 +143,11 @@ using namespace std;
 ////}
 
 
+
+/*
+refer http://stackoverflow.com/questions/34436110/training-svm-for-images-in-opencv
+
+*/
 #include <opencv2/core/core.hpp>
 #include <opencv2/highgui/highgui.hpp>
 #include <opencv2/opencv.hpp>
