@@ -212,6 +212,5 @@ int main(){
 	else
 		cout << endl << "Not washer";
 	waitKey(0);
-
 	return 0;
 }
